@@ -7,6 +7,13 @@ for char in word:
         print(1)
         break
     
+else:
+    print(1)
 
+for char in word:
+    if char == 'e':
+        print(1)
+        break
+    
 else:
     print(1)

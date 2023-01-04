@@ -52,4 +52,4 @@ else:
 print('미세먼지 확인 완료')
 
 
-
+a = range(4)

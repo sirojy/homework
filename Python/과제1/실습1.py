@@ -7,6 +7,7 @@ age = current_year - birth
 print("저의 이름은", name , "이고," "올해 나이는", age, "입니다.")
 
 
+
 number = int(input("숫자를 입력해주세요 > "))
 
 print(number + 10)
